@@ -11,6 +11,13 @@
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/evaldo-junior-89094244/)
 
+
+---
+## **PROJETO DE CLUSTERIZAÇÃO**
+
+* **Clusterização com KNN**:[Código do Projeeto](https://github.com/j2evaldo/MACHINE_LEARNING_E_O_MARKETING/blob/main/APRENDIZAGEM%20N%C3%83O%20SUPERVIONADA.ipynb)
+
+
 ---
 ## **PROJETO DE REGRESSÃO LINEAR**
 
