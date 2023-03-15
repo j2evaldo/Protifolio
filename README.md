@@ -22,3 +22,8 @@
 ## **PROJETO DE REGRESSÃO LINEAR**
 
 * **Regressão Linear**: [Codigo do Projeto](https://github.com/j2evaldo/Protifolio/blob/main/01_regressao_linear.ipynb)
+
+---
+## **RESOLVENDO UM PROBLEMA REAL COM DADOS**
+
+* **Aplicando Machine Learning para resolver um problema de Processo Industrial**: [Código do Projeto](https://github.com/j2evaldo/impregnadora/blob/main/trampo2.ipynb)
