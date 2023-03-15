@@ -14,4 +14,4 @@
 ---
 ## **PROJETO DE REGRESSÃO LINEAR**
 
-* **Regressão Linear**: [Codigo do Projeto](https://github.com/j2evaldo/Boas-Praticas)
+* **Regressão Linear**: [Codigo do Projeto](https://github.com/j2evaldo/Protifolio/blob/main/01_regressao_linear.ipynb)
