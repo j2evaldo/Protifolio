@@ -9,7 +9,9 @@
 **Background in:** Python, Machine Learning.
 
 **Links:**
-* [Blog](https://evaldoj.com)
 * [LinkedIn](https://www.linkedin.com/in/evaldo-junior-89094244/)
 
 ---
+## **PROJETO DE REGRESSÃO LINEAR**
+
+* **Regressão Linear**: [Codigo do Projeto](https://github.com/j2evaldo/Boas-Praticas)
