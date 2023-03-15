@@ -15,7 +15,7 @@
 ---
 ## **PROJETO DE CLUSTERIZAÇÃO**
 
-* **Clusterização com KNN**: [Código do Projeeto](https://github.com/j2evaldo/MACHINE_LEARNING_E_O_MARKETING/blob/main/APRENDIZAGEM%20N%C3%83O%20SUPERVIONADA.ipynb)
+* **Clusterização com KNN**: [Código do Projeto](https://github.com/j2evaldo/MACHINE_LEARNING_E_O_MARKETING/blob/main/APRENDIZAGEM%20N%C3%83O%20SUPERVIONADA.ipynb)
 
 
 ---
